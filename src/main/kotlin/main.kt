@@ -1,4 +1,3 @@
-
 package ru.netology
 
 import com.ibm.icu.text.PluralRules
